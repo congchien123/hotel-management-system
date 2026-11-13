@@ -1,2 +1,2 @@
-# H-th-ng-qu-n-l-l-ng-kh-ch-s-n
+# Hệ thống quản lí phòng khác sạn
 Btl LTHDT Nhóm 6
